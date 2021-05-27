@@ -1,0 +1,35 @@
+{
+  "name": "work",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "core-js": "^3.6.5",
+    "firebase": "^8.3.2",
+    "firebase-admin": "^9.6.0",
+    "firebase-functions": "^3.13.2",
+    "vue": "^3.0.0",
+    "vue-materialize": "^1.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuefire": "^3.0.0-alpha.2",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
